@@ -1,1 +1,2 @@
-# credit-risk
+# Credit Risk analyzer.
+will add a detailed description later...
